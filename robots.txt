@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://claudiangdeep.github.io/Claudia-s-Website/sitemap.xml
